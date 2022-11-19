@@ -1,4 +1,4 @@
-# Bergsethetal_2021_ComplianceGap
+# Bergsethetal_2022_ComplianceGap
 
 This repository contains the code to implement the analyses from the manuscript Bergseth et al. 2021 "Closing the compliance gap in marine reserves".
 
